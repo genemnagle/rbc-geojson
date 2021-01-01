@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "RBC Properties - Approximate Lot Lines",
+    "notice": "THE COORDINATED USED ARE APPROXIMATIONS ONLY - USED TO SHOW THE APPROXIMATE LOCATION OF EACH PROPERTY. THIS IS NOT A LEGAL DESCRIPTION OF ANY PROPERTY AND SHALL NOT BE USED IN ANY LEGAL DOCUMENTS.",
+    "status": 200,
+    "api": "1.0.0"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85.13045758008957,
+              34.913826882969644
+            ],
+            [
+              -85.13111740350723,
+              34.91261717746359
+            ],
+            [
+              -85.13083577156067,
+              34.91264357122849
+            ],
+            [
+              -85.13044953346252,
+              34.912685361338895
+            ],
+            [
+              -85.13014107942581,
+              34.91286791788755
+            ],
+            [
+              -85.12980848550797,
+              34.91360693783991
+            ],
+            [
+              -85.13045758008957,
+              34.913826882969644
+            ]
+          ]
+        ]
+      },
+      "id": "millenium-circle-a-and-b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85.13116836547852,
+              34.91252259973632
+            ],
+            [
+              -85.13142049312592,
+              34.91157681647095
+            ],
+            [
+              -85.13011693954468,
+              34.911282081784705
+            ],
+            [
+              -85.13025641441345,
+              34.912667765505525
+            ],
+            [
+              -85.13070702552795,
+              34.91256658939046
+            ],
+            [
+              -85.13116836547852,
+              34.91252259973632
+            ]
+          ]
+        ]
+      },
+      "id": "remco-shops-ln"
+    }
+  ]
+}

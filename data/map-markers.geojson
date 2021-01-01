@@ -12,6 +12,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.13038516044617,
+          34.913455175356816
+        ]
+      },
+      "id": "millenium-a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.13061583042143,
           34.91302408039614
         ]
