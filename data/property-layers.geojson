@@ -9,7 +9,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "millenium-circle-a-and-b"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -44,12 +46,13 @@
             ]
           ]
         ]
-      },
-      "id": "millenium-circle-a-and-b"
+      }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "remco-shops-ln"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80,8 +83,7 @@
             ]
           ]
         ]
-      },
-      "id": "remco-shops-ln"
+      }
     }
   ]
 }
