@@ -9,6 +9,7 @@
   "features": [
     {
       "type": "Feature",
+      "id": "21",
       "properties": {
         "id": "millenium-circle-a-and-b"
       },
@@ -50,6 +51,7 @@
     },
     {
       "type": "Feature",
+      "id": "21",
       "properties": {
         "id": "remco-shops-ln"
       },
