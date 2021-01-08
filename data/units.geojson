@@ -8,7 +8,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "24-millenium-cir",
+      "id": "24-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -20,7 +20,7 @@
     },
     {
       "type": "Feature",
-      "id": "28-millenium-cir",
+      "id": "28-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -32,7 +32,7 @@
     },
     {
       "type": "Feature",
-      "id": "36-millenium-cir",
+      "id": "36-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -44,7 +44,7 @@
     },
     {
       "type": "Feature",
-      "id": "40-millenium-cir",
+      "id": "40-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -56,7 +56,7 @@
     },
     {
       "type": "Feature",
-      "id": "44-millenium-cir",
+      "id": "44-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -68,7 +68,7 @@
     },
     {
       "type": "Feature",
-      "id": "60-millenium-cir",
+      "id": "60-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -80,7 +80,7 @@
     },
     {
       "type": "Feature",
-      "id": "64-millenium-cir",
+      "id": "64-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -92,7 +92,7 @@
     },
     {
       "type": "Feature",
-      "id": "68-millenium-cir",
+      "id": "68-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": "72-millenium-cir",
+      "id": "72-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -116,7 +116,7 @@
     },
     {
       "type": "Feature",
-      "id": "76-millenium-cir",
+      "id": "76-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -128,7 +128,7 @@
     },
     {
       "type": "Feature",
-      "id": "80-millenium-cir",
+      "id": "80-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -140,7 +140,7 @@
     },
     {
       "type": "Feature",
-      "id": "84-millenium-cir",
+      "id": "84-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -152,7 +152,7 @@
     },
     {
       "type": "Feature",
-      "id": "88-millenium-cir",
+      "id": "88-millennium-cir",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -308,7 +308,7 @@
     },
     {
       "type": "Feature",
-      "id": "136-remco-shops-ln",
+      "id": "134-remco-shops-ln",
       "properties": {},
       "geometry": {
         "type": "Point",
@@ -320,7 +320,7 @@
     },
     {
       "type": "Feature",
-      "id": "138-remco-shops-ln",
+      "id": "136-remco-shops-ln",
       "properties": {},
       "geometry": {
         "type": "Point",
