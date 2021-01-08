@@ -1,0 +1,478 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Map Markers - RBC Properties",
+    "status": 200,
+    "api": "1.0.0"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "24-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13028994202614,
+          34.91363663046684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13031408190726,
+          34.91359154165876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13035297393799,
+          34.913506862610845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1304079592228,
+          34.91342548266426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13045087456703,
+          34.91334190317572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13052329421043,
+          34.91321653378332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13054341077805,
+          34.91316924527858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13056620955467,
+          34.91312745541448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13059437274933,
+          34.91308566552914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13061851263046,
+          34.913038376949004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13065069913864,
+          34.91298558966457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13068556785583,
+          34.91292400445652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88-millenium-cir",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13071641325949,
+          34.91287231683551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "102-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1306802034378,
+          34.91236863576122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "104-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13070702552795,
+          34.91229165366538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "106-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13072714209557,
+          34.91222126997171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "110-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13075664639472,
+          34.91214538748441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "112-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13077944517136,
+          34.912071704422345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "114-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13080894947052,
+          34.91199582179677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "118-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13083845376967,
+          34.911921038850785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "120-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13078346848488,
+          34.91172308366493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "122-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13071238994598,
+          34.911697789356786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "126-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1306426525116,
+          34.91168239281759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "128-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1305702328682,
+          34.91166149750973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "132-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13049513101576,
+          34.91164170195006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "136-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13042137026787,
+          34.911621906385605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "138-remco-shops-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1303368806839,
+          34.91160101106239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "313-boynton-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13016387820244,
+          34.91400833725802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "102-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1302818953991,
+          34.91391706030249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "104-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13023629784584,
+          34.914025932804044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13116300106049,
+          34.91335839913413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13104498386383,
+          34.91361573565643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "105-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1307365298271,
+          34.91401493558821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "107-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13069361448288,
+          34.91406882193166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "109-rbc-dr",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13065472245216,
+          34.91412160851955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "232-cassidy-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13260468840599,
+          34.91324402708751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "250-cassidy-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1331652700901,
+          34.91343757968845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "252-cassidy-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13326182961464,
+          34.91321433431859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "370-cassidy-ln",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13524532318115,
+          34.91262377590561
+        ]
+      }
+    }
+  ]
+}
